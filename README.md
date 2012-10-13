@@ -1,4 +1,4 @@
-pandora_applescript
+pandora applescript
 ===================
 
 This is used as part of my smart home.  It is an small apple script which can be used from the command line.  It can open, login, logout, play pause and set the station of Pandora.
