@@ -14,6 +14,7 @@ osascript pan.scpt "your email" "your password" true open
 osascript pan.scpt "your email" "your password" true pause
 osascript pan.scpt "your email" "your password" true station "Ellie Goulding"
 osascript pan.scpt "your email" "your password" false close
+osascript pan.scpt "your email" "your password" false logout
 ```
 
 Developers
